@@ -1,0 +1,30 @@
+body{
+    font-family: sans-serif;
+    font-size: 50px;
+}
+header{
+    background-color: red;
+}
+header a{
+        color: red;
+        text-decoration: none;
+        background-color : green;
+        padding: 5xp;
+}
+h1{
+font-family:fantasy;
+}
+nav{
+background-color :gold;
+}
+main p{
+    background-color: aquamarine;
+    border: 20px dottet red;
+    border-radius: 15px;
+    padding: 10px;
+    margin: 30px;
+}
+h2{
+        color:beige;
+        font-family: monospace;
+        }
